@@ -1,0 +1,63 @@
+{
+  "$id": "discourse_discourseCategory",
+  "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
+  "entityType": "discourse_DiscourseCategory",
+  "displayName": "Discourse Category",
+  "presentationEntries": [
+    {
+      "displayName": "Content",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Core Information",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "yext/name",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "yext/entityId",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "yext/description"
+        },
+        {
+          "id": "yext/slug"
+        },
+        {
+          "id": "discourse_avatar"
+        }
+      ]
+    },
+    {
+      "displayName": "Metrics",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "discourse_topicCount"
+        },
+        {
+          "id": "discourse_postCount"
+        }
+      ]
+    },
+    {
+      "displayName": "Other",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Internal Use Only",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "yext/folder"
+        },
+        {
+          "id": "yext/labels"
+        }
+      ]
+    }
+  ]
+}
