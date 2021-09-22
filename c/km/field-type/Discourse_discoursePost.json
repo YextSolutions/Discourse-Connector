@@ -9,7 +9,7 @@
           "name": "text",
           "displayName": "Text",
           "isRequired": false,
-          "typeId": "yext/richText",
+          "typeId": "richText",
           "type": {
             "richTextType": {
               "supportedFormat": [
@@ -36,7 +36,7 @@
           "name": "acceptedAnswer",
           "displayName": "Accepted Answer",
           "isRequired": false,
-          "typeId": "yext/string",
+          "typeId": "string",
           "type": {
             "stringType": {
               "stereotype": "SIMPLE"
@@ -47,7 +47,7 @@
           "name": "author",
           "displayName": "Author",
           "isRequired": false,
-          "typeId": "yext/string",
+          "typeId": "string",
           "type": {
             "stringType": {
               "stereotype": "SIMPLE"
@@ -58,7 +58,7 @@
           "name": "username",
           "displayName": "Username",
           "isRequired": false,
-          "typeId": "yext/string",
+          "typeId": "string",
           "type": {
             "stringType": {
               "stereotype": "SIMPLE"
@@ -69,7 +69,7 @@
           "name": "avatar",
           "displayName": "Avatar",
           "isRequired": false,
-          "typeId": "yext/image",
+          "typeId": "image",
           "type": {
             "imageType": {
               "isSimpleImage": true,
@@ -86,7 +86,7 @@
           "name": "postNumber",
           "displayName": "Post Number",
           "isRequired": false,
-          "typeId": "yext/decimal",
+          "typeId": "decimal",
           "type": {
             "decimalType": {}
           }
@@ -95,7 +95,7 @@
           "name": "topicID",
           "displayName": "Topic ID",
           "isRequired": false,
-          "typeId": "yext/decimal",
+          "typeId": "decimal",
           "type": {
             "decimalType": {}
           }

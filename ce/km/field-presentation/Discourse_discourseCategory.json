@@ -13,18 +13,18 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/name",
+          "id": "name",
           "visibleOnAdd": true
         },
         {
-          "id": "yext/entityId",
+          "id": "entityId",
           "visibleOnAdd": true
         },
         {
-          "id": "yext/description"
+          "id": "description"
         },
         {
-          "id": "yext/slug"
+          "id": "slug"
         },
         {
           "id": "discourse_avatar"
@@ -52,10 +52,10 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/folder"
+          "id": "folder"
         },
         {
-          "id": "yext/labels"
+          "id": "labels"
         }
       ]
     }

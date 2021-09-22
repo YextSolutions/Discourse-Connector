@@ -13,21 +13,21 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/entityId",
+          "id": "entityId",
           "visibleOnAdd": true
         },
         {
-          "id": "yext/name",
+          "id": "name",
           "visibleOnAdd": true
         },
         {
           "id": "discourse_categoryID"
         },
         {
-          "id": "yext/slug"
+          "id": "slug"
         },
         {
-          "id": "yext/photoGallery"
+          "id": "photoGallery"
         }
       ]
     },
@@ -66,7 +66,7 @@
           "id": "discourse_likesReceived"
         },
         {
-          "id": "yext/views"
+          "id": "views"
         }
       ]
     },
@@ -79,10 +79,10 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/folder"
+          "id": "folder"
         },
         {
-          "id": "yext/labels"
+          "id": "labels"
         }
       ]
     }
