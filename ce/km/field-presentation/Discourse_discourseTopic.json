@@ -1,7 +1,7 @@
 {
-  "$id": "discourse_discourseTopic",
+  "$id": "Discourse_discourseTopic",
   "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
-  "entityType": "discourse_DiscourseTopic",
+  "entityType": "Discourse_discourseTopic",
   "displayName": "Discourse Topic",
   "presentationEntries": [
     {
