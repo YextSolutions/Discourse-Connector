@@ -1,5 +1,5 @@
 {
-  "$id": "discourse_DiscourseCategory",
+  "$id": "Discourse_discourseCategory",
   "$schema": "https://schema.yext.com/config/km/entity-type/v1",
   "description": "",
   "displayName": "Discourse Category",
