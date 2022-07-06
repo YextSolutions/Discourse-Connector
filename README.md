@@ -64,7 +64,7 @@ Install the connector to begin pulling in your Discourse data into your Knowledg
 
 1. Log in to your Yext account
 2. Navigate to the **Apps > Directory** tab in the platform (or use the link provided above).
-3. Search for the Discourse Content Connector app and click **Install**.
+3. Search for the Discourse Connector app and click **Install**.
 4. Accept the following changes to your account by clicking **Next** and authorize Yext APIs.
 5. Provide your Discourse domain.
 6. Validate your Discourse domain along with your API key. Selecte whether or not you'd like to enable webhooks.
