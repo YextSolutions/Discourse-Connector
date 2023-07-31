@@ -258,8 +258,11 @@
             "header": "First Post Text",
             "subfieldPath": [
                 {
-                    "name": "text"
-                }
+          "name": "text"
+        },
+        {
+          "name": "markdown"
+        }
             ]
         },
         {
@@ -419,8 +422,11 @@
             "header": "Thread Text",
             "subfieldPath": [
                 {
-                    "name": "text"
-                }
+          "name": "text"
+        },
+        {
+          "name": "markdown"
+        }
             ]
         },
         {
@@ -437,8 +443,11 @@
             "header": "Accepted Answer Text",
             "subfieldPath": [
                 {
-                    "name": "text"
-                }
+          "name": "text"
+        },
+        {
+          "name": "markdown"
+        }
             ]
         },
         {
